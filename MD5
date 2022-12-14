@@ -1,8 +1,8 @@
-2316df3f8c71d42cebef1ad7ea4c5451 *DESCRIPTION
+7c2ef0fa1e800fa9e0cf550aacbcb766 *DESCRIPTION
 d57e6a6b85d54893a8f85f8dfa420457 *NAMESPACE
 a3b959fe0df75b2926c2190c05fe67c8 *R/RcppExports.R
 7a526d1e262d1b8b9a2a522f825b148a *R/const.R
-4b846dc1b30435aeec7a781c56029202 *R/core_import.R
+27ad2b8e7a50a97d5ec3a93aff786b05 *R/core_import.R
 f6aa5b630b6ab5deb1fc017557e595a4 *R/core_search.R
 b212d345c313c9b4bbd74f9fee94a6da *R/extras.R
 6247193a66ecb4140f2cdc176db2c544 *R/helpers.R
@@ -12,7 +12,7 @@ b5dd29b2d74ea489dc9d9afa2fcf2d8a *README.md
 3215eb460e77d2f3e4ec24c6364d3199 *man/compare.Rd
 e3ca20d8c2b0bcf259e63b12d20e84d4 *man/describe.Rd
 5e51fb2f1983bf5079d84d5d150b6736 *man/find.Rd
-5700eaa3c7a246d055f9ed46ca039326 *man/importData.Rd
+0844fd62462d6a0e7827fd3ba17cd4a7 *man/importData.Rd
 4f7c4bedd1b364b1c8508ff62db2e4c9 *man/importDataList.Rd
 7b7ac1d1ed636838ec3f218d3a29dbfa *man/importDimLabel.Rd
 95c508522593765f666ebefcab4d4490 *man/importLabels.Rd
