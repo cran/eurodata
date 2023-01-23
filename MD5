@@ -1,4 +1,4 @@
-7c2ef0fa1e800fa9e0cf550aacbcb766 *DESCRIPTION
+cfef42cffc72b9d12fbaf6a7ce1451c1 *DESCRIPTION
 d57e6a6b85d54893a8f85f8dfa420457 *NAMESPACE
 a3b959fe0df75b2926c2190c05fe67c8 *R/RcppExports.R
 7a526d1e262d1b8b9a2a522f825b148a *R/const.R
@@ -6,7 +6,7 @@ a3b959fe0df75b2926c2190c05fe67c8 *R/RcppExports.R
 f6aa5b630b6ab5deb1fc017557e595a4 *R/core_search.R
 b212d345c313c9b4bbd74f9fee94a6da *R/extras.R
 6247193a66ecb4140f2cdc176db2c544 *R/helpers.R
-b5dd29b2d74ea489dc9d9afa2fcf2d8a *README.md
+f00a37d1ec9ddd99d80dc9effd34ea71 *README.md
 36441783b0ee9841315710dabd6c3e5f *man/as.EurostatDataList.Rd
 8c44ac2e75334d5a0db1a46f52d39412 *man/browseDataList.Rd
 3215eb460e77d2f3e4ec24c6364d3199 *man/compare.Rd

@@ -4,8 +4,11 @@ Title: Fast and Easy Eurostat Data Import and Search
 Description: Interface to Eurostat’s Bulk Download Facility with fast data.table-based import of
     data, labels, and metadata. On top of the core functionality, data search and data
     description/comparison functions are also provided.
-Version: 1.6.0
-Date: 2022-12-14
+    Use <https://github.com/alekrutkowski/eurodata_codegen> — a point-and-click app for rapid and
+    easy generation of richly-commented R code — to import a Eurostat dataset or its subset
+    (based on the eurodata::importData() function).
+Version: 1.6.1
+Date: 2023-01-23
 Authors@R: c(person("Aleksander","Rutkowski", role=c("aut","cre"), email="alek.rutkowski@gmail.com"))
 License: GPL-2
 URL: https://github.com/alekrutkowski/eurodata/
@@ -18,8 +21,8 @@ Collate: RcppExports.R const.R helpers.R core_import.R core_search.R
 LinkingTo: Rcpp
 RoxygenNote: 7.2.1
 NeedsCompilation: yes
-Packaged: 2022-12-14 10:11:48 UTC; rutkoal
+Packaged: 2023-01-23 14:59:42 UTC; rutkoal
 Author: Aleksander Rutkowski [aut, cre]
 Maintainer: Aleksander Rutkowski <alek.rutkowski@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-12-14 15:50:02 UTC
+Date/Publication: 2023-01-23 15:10:02 UTC
